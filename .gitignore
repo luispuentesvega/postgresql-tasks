@@ -1,2 +1,4 @@
 *.backup
 *.txt
+*.tar.gz
+*.dump
