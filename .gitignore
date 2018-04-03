@@ -3,3 +3,4 @@
 *.tar.gz
 *.dump
 *.pyc
+*.log

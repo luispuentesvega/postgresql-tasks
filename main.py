@@ -76,7 +76,7 @@ main.download_backups(config['ftp'])
 #bd = connection_bd(db='test')
 #all = bd.fetch_all(query='SELECT * FROM sales;');
 #print(all)
-#extract_file(os.getcwd()+'\\backups\\SitransBackups_20160615_0806.tar.gz', os.getcwd()+'\\backups')
+#extract_file(os.getcwd()+'\\backups\\backup.tar.gz', os.getcwd()+'\\backups')
 #arr_backups = get_backups() -> get_specific_files_from_directory(os.getcwd() + '/backups', '.dump'):
 #restore_backups(arr_backups)
 #print(arr_backups)
