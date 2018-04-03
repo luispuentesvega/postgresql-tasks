@@ -2,3 +2,4 @@
 *.txt
 *.tar.gz
 *.dump
+*.pyc
