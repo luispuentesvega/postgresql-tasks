@@ -1,0 +1,8 @@
+2018-04-03 10:37:17 AM Starting process...
+2018-04-03 10:37:17 AM Deleting files existing folder
+2018-04-03 10:37:17 AM Loading variables from config.json
+2018-04-03 10:37:18 AM Connecting to FTP user(dlpuser@dlptest.com) : 230 OK. Current restricted directory is /
+2018-04-03 10:37:37 AM Starting process...
+2018-04-03 10:37:37 AM Deleting files existing folder D:\Luis\Programming\Python\postgresql-tasks\backups\20180403
+2018-04-03 10:37:37 AM Loading variables from config.json
+2018-04-03 10:37:38 AM Connecting to FTP user(dlpuser@dlptest.com) : 230 OK. Current restricted directory is /
