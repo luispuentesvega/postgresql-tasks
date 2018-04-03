@@ -1,0 +1,31 @@
+{
+    "ftp":{
+      "server": "ftp.dlptest.com",
+      "username": "dlpuser@dlptest.com",
+      "password": "eiTqR7EMZD5zy7M",
+      "port": "21",
+      "folders":[{
+          "name":""
+        }
+      ]
+    },
+    "postgresql":{
+      "host":"localhost",
+      "user":"postgres",
+      "passwd":"postgres",
+      "db":""
+    },
+    "emails":{
+      "from":{
+        "address":"prueba@gmail.com",
+        "password":"xxxxx"
+      },
+      "to":[{
+          "address":"to@gmail.com",
+          "name":"Luis"
+        }
+      ]
+    },
+    "companies":[
+    ]
+}
