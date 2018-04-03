@@ -10,6 +10,5 @@ Automatizate whole process for checking backups from postgresql SGBD
 
 ## Install & Configuration Process
 1.Install the next Python's libraries
-
 2.Configurate file JSON with 1)Account FTP 2)Postresql Local 3)Emails to notify
 3.Execute py main.py
